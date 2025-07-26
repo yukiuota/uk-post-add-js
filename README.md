@@ -1,4 +1,4 @@
-# UK Add JS Plugin
+# UK Post Add JS Plugin
 
 WordPressの投稿、固定ページ、カスタム投稿の編集画面にJavaScript入力フィールドを追加し、フロントエンドで出力するプラグインです。
 
@@ -50,8 +50,8 @@ console.log('Hello World');
 
 ## 作者
 
-Your Name
+Y.U.
 
 ## ライセンス
 
-GPL v2 or later
+GPL v2
