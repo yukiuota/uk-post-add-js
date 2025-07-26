@@ -1,0 +1,41 @@
+/* UK Add JS Plugin Admin Styles */
+
+#uk-custom-js-meta-box .inside {
+    padding: 0;
+}
+
+#uk-custom-js-meta-box .form-table {
+    margin: 0;
+}
+
+#uk-custom-js-meta-box .form-table th {
+    width: 150px;
+    padding: 20px;
+    vertical-align: top;
+}
+
+#uk-custom-js-meta-box .form-table td {
+    padding: 20px;
+}
+
+#uk_custom_js {
+    font-family: 'Monaco', 'Consolas', 'Courier New', monospace;
+    font-size: 13px;
+    line-height: 1.4;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+#uk_custom_js:focus {
+    border-color: #5b9dd9;
+    box-shadow: 0 0 2px rgba(30, 140, 190, 0.8);
+    background-color: #fff;
+}
+
+.uk-js-description {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
